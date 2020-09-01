@@ -1,0 +1,29 @@
+{
+  "name": "blackboard-send-mail",
+  "version": "1.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iceberg-incorporation/blackboard-send-mail.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "mail",
+    "blackboard-th"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iceberg-incorporation/blackboard-send-mail/issues"
+  },
+  "homepage": "https://github.com/Iceberg-incorporation/blackboard-send-mail#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.11"
+  }
+}
