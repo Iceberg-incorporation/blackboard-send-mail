@@ -35,8 +35,8 @@ First, we need to define a connection mail service. `bsm.connect`
 bsm.connect({
     host: "HOST_MAIL_DOMAIN",
     auth: {
-        email:"EMAIL_DOMAIN",
-        password: "PASSWORD"
+        user:"EMAIL_DOMAIN",
+        pass: "PASSWORD"
     }
 })
 ```
